@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Yosi Ben Shushan</h1>
+<h1 align="center">Hi 👋, I'm Ben Mendelson</h1>
 <h3 align="center">A passionate software developer from Israel</h3>
 
 
 
 
-<h3 align="center">🌱 I am currently a third-year software engineering student specializing in Android mobile application development, while actively pursuing skills in Full Stack Web Development through Udemy.</h3> 
+<h3 align="center">🌱 I am currently a third-year software engineering student in AFEKA .</h3> 
 <p align="center">
   <img alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 </p>
@@ -13,12 +13,12 @@
 
 
 <h3 align="center">📫 How to reach me:</h3>
-<h3 align="center"> YosiBs21@gmail.com</h3>
+<h3 align="center"> benmendelson1997@gmail.com</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.instagram.com/yosi_bs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yosi_bs" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/yosi-ben-shushan-869a5a248/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Yosi Ben Shushan" height="35" width="35" /></a>
-<a href="https://www.facebook.com/yosi.y.yosi.9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Yosi Ben Shushan" height="35" width="35" /></a>
+<a href="https://www.instagram.com/benmendelson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yosi_bs" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ben-mendelson-174595272/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Ben Mendelson" height="35" width="35" /></a>
+<a href="https://www.facebook.com/benmendelson" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ben Mendelson" height="35" width="35" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
